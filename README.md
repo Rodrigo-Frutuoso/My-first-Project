@@ -7,3 +7,5 @@ The objective of the game is to guess a secret word with a certain size (wordSiz
 In part1, the clue given consists of the word entered by the player, with each letter in a color indicating whether the letter is in the correct position (GREEN), if it is in the wrong position (YELLOW), or if it is not part of the word (RED).
 
 In part2, the given clue is represented by the symbols * (correct position), 0 (wrong position), and _ (letter does not belong to the word to be discovered), or if the graphical interface is used, it is the same as in part1.
+
+Made with Java
